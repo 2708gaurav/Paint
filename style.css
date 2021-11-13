@@ -1,0 +1,17 @@
+h1
+{
+	color: blue; 
+	font-size: 60px;
+	font-weight: bold;
+}
+.body_backgorund {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCexM0VRl8VSuJEoj8k7Nop99-uugHo-t8g&usqp=CAU");
+background-position: center;
+background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: cornsilk;
+border-style: ridge;
+}
